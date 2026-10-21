@@ -6,6 +6,7 @@ def all_sum(*args):
     return total
 
 
+
 result = all_sum(1,2,3)
 
 print(result)
